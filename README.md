@@ -1,4 +1,9 @@
-# crud-java-mysql
+# crud-java-mysql lo que vamos a crear:
+
+![Captura de pantalla en ordenador](https://github.com/DruChill/crud-java-mysql/blob/main/Captura%20de%20pantalla%202024-07-05%20a%20la(s)%2018.32.19.png?raw=true)
+![Captura de pantalla en ordenador](https://github.com/DruChill/MisRutas/blob/master/public/WebSite-1.png)
+![Captura de pantalla en ordenador](https://github.com/DruChill/MisRutas/blob/master/public/WebSite-1.png)
+
 
 # Paso 1: Crear un Proyecto en Spring Tool Suite
 Dependencias a usar:
@@ -105,9 +110,11 @@ IMPORTANTE: Asegurate de cambiar el puerto (3306) y puede variar por PC
 
   ```
 
+  
   - Controlador:
     Crea una clase en src/main/java/com/example/crudapp/controller:
 
+  
   ```sh
     package com.example.crudapp.controller;
 
