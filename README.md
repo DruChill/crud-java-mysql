@@ -1,8 +1,8 @@
 # crud-java-mysql lo que vamos a crear:
 
 ![Captura de pantalla en ordenador](https://github.com/DruChill/crud-java-mysql/blob/main/Captura%20de%20pantalla%202024-07-05%20a%20la(s)%2018.32.19.png?raw=true)
-![Captura de pantalla en ordenador](https://github.com/DruChill/MisRutas/blob/master/public/WebSite-1.png)
-![Captura de pantalla en ordenador](https://github.com/DruChill/MisRutas/blob/master/public/WebSite-1.png)
+![Captura de pantalla en ordenador](https://github.com/DruChill/crud-java-mysql/blob/main/Captura%20de%20pantalla%202024-07-05%20a%20la(s)%2018.32.22.png?raw=true)
+![Captura de pantalla en ordenador](https://github.com/DruChill/crud-java-mysql/blob/main/Captura%20de%20pantalla%202024-07-05%20a%20la(s)%2018.32.25.png?raw=true)
 
 
 # Paso 1: Crear un Proyecto en Spring Tool Suite
@@ -12,7 +12,7 @@ Dependencias a usar:
 - MySQL Driver: Para conectar con la base de datos MySQL.
 - Thymeleaf: Para construir el front-end.
 
-- agregare una imagen
+![Captura de pantalla en ordenador]()
 
 # Paso 2: Configurar la Base de Datos MySQL
 
