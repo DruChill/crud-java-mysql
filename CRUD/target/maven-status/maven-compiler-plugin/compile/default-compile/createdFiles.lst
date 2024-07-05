@@ -1,0 +1,5 @@
+com/registro2/CRUD/controller/PersonaController.class
+com/registro2/CRUD/model/Persona.class
+com/registro2/CRUD/CrudApplication.class
+com/registro2/CRUD/service/PersonaService.class
+com/registro2/CRUD/repository/PersonaRepository.class
