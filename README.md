@@ -12,9 +12,9 @@ Dependencias a usar:
 - MySQL Driver: Para conectar con la base de datos MySQL.
 - Thymeleaf: Para construir el front-end.
 
-![Captura de pantalla en ordenador]()
+![Captura de pantalla en ordenador](https://github.com/DruChill/crud-java-mysql/blob/main/Captura%20de%20pantalla%202024-06-22%20a%20la(s)%2009.27.20.png?raw=true)
 
-# Paso 2: Configurar la Base de Datos MySQL
+## Paso 2: Configurar la Base de Datos MySQL
 
 ```sh
   CREATE DATABASE nombreDeTuBaseDeDatos;
@@ -33,7 +33,7 @@ Configurar el acceso a la base de datos en application.properties:
   ```
 IMPORTANTE: Asegurate de cambiar el puerto (3306) y puede variar por PC
 
-# Paso 3: Crear el Modelo, Repositorio, Servicio y Controlador
+## Paso 3: Crear el Modelo, Repositorio, Servicio y Controlador
 
 - Modelo (Entidad):
   Crea una clase en src/main/java/com/example/crudapp/model:
@@ -168,7 +168,7 @@ IMPORTANTE: Asegurate de cambiar el puerto (3306) y puede variar por PC
 
   ```
 
-  # Paso 4: Crear las Vistas con Thymeleaf
+  ## Paso 4: Crear las Vistas con Thymeleaf
   - Crear una carpeta templates en src/main/resources y añade los archivos persona-list.html y persona-form.html:
     persona-list.html:
 
@@ -231,5 +231,5 @@ IMPORTANTE: Asegurate de cambiar el puerto (3306) y puede variar por PC
 
   ```
 
-# Paso 5: Ejecutar el Proyecto
+### Paso 5: Ejecutar el Proyecto
     
