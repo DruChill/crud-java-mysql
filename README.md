@@ -1,11 +1,12 @@
 # crud-java-mysql lo que vamos a crear:
+- Toda via me falta arreglar algunas cosas pero en general funciona video tutorial aquí: https://youtu.be/3BqIbjr2C6o
 
 ![Captura de pantalla en ordenador](https://github.com/DruChill/crud-java-mysql/blob/main/Captura%20de%20pantalla%202024-07-05%20a%20la(s)%2018.32.19.png?raw=true)
 ![Captura de pantalla en ordenador](https://github.com/DruChill/crud-java-mysql/blob/main/Captura%20de%20pantalla%202024-07-05%20a%20la(s)%2018.32.22.png?raw=true)
 ![Captura de pantalla en ordenador](https://github.com/DruChill/crud-java-mysql/blob/main/Captura%20de%20pantalla%202024-07-05%20a%20la(s)%2018.32.25.png?raw=true)
 
 
-# Paso 1: Crear un Proyecto en Spring Tool Suite
+## Paso 1: Crear un Proyecto en Spring Tool Suite
 Dependencias a usar:
 - Spring Web: Necesaria para construir aplicaciones web.
 - Spring Data JPA: Para trabajar con JPA y realizar operaciones de persistencia.
