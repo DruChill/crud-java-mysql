@@ -1,5 +1,5 @@
 # crud-java-mysql lo que vamos a crear:
-- Toda via me falta arreglar algunas cosas pero en general funciona video tutorial aquí: https://youtu.be/3BqIbjr2C6o
+- Todavia me falta corregir algunas cosas pero en general funciona, video tutorial aquí: https://youtu.be/3BqIbjr2C6o
 
 ![Captura de pantalla en ordenador](https://github.com/DruChill/crud-java-mysql/blob/main/Captura%20de%20pantalla%202024-07-05%20a%20la(s)%2018.32.19.png?raw=true)
 ![Captura de pantalla en ordenador](https://github.com/DruChill/crud-java-mysql/blob/main/Captura%20de%20pantalla%202024-07-05%20a%20la(s)%2018.32.22.png?raw=true)
@@ -58,11 +58,12 @@ IMPORTANTE: Asegurate de cambiar el puerto (3306) y puede variar por PC
       // Getters y Setters
   }
 
-  ```
+```
+
 - Repositorio:
   Crea una interfaz en src/main/java/com/example/crudapp/repository:
 
-  ```sh
+```sh
   package com.example.crudapp.repository;
 
   import org.springframework.data.jpa.repository.JpaRepository;
@@ -71,12 +72,12 @@ IMPORTANTE: Asegurate de cambiar el puerto (3306) y puede variar por PC
   public interface PersonaRepository extends JpaRepository<Persona, Long> {
   }
 
-  ```
+```
 
   - Servicio:
     Crea una clase en src/main/java/com/example/crudapp/service:
 
-    ```sh
+```sh
       package com.example.crudapp.service;
       
       import org.springframework.beans.factory.annotation.Autowired;
@@ -109,7 +110,7 @@ IMPORTANTE: Asegurate de cambiar el puerto (3306) y puede variar por PC
           }
       }
 
-  ```
+```
 
   
   - Controlador:
