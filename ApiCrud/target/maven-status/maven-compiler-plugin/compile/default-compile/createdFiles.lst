@@ -1,0 +1,5 @@
+com/trabajoFinal/ApiCrud/controller/PersonaController.class
+com/trabajoFinal/ApiCrud/service/PersonaService.class
+com/trabajoFinal/ApiCrud/model/Persona.class
+com/trabajoFinal/ApiCrud/repository/PersonaRepository.class
+com/trabajoFinal/ApiCrud/ApiCrudApplication.class
