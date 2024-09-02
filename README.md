@@ -1,4 +1,4 @@
-# crud-java-mysql lo que vamos a crear:
+# CRUD Java con MySQL lo que vamos a crear:
 - Todavia me falta corregir algunas cosas pero en general funciona, video tutorial aquí: https://youtu.be/3BqIbjr2C6o
 
 ![Captura de pantalla en ordenador](https://github.com/DruChill/crud-java-mysql/blob/main/Captura%20de%20pantalla%202024-07-05%20a%20la(s)%2018.32.19.png?raw=true)
@@ -174,7 +174,8 @@ IMPORTANTE: Asegurate de cambiar el puerto (3306) y puede variar por PC
   - Crear una carpeta templates en src/main/resources y añade los archivos persona-list.html y persona-form.html:
     persona-list.html:
 
-    ```sh
+    
+ ```sh
   <!DOCTYPE html>
   <html xmlns:th="http://www.thymeleaf.org">
   <head>
