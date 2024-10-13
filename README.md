@@ -19,7 +19,7 @@ Dependencias a usar:
 
 ```sh
   CREATE DATABASE nombreDeTuBaseDeDatos;
-  USE DATABASE nombreDeTuBaseDeDatos;
+  USE nombreDeTuBaseDeDatos;
   ```
 
 Configurar el acceso a la base de datos en application.properties:
