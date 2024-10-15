@@ -32,7 +32,8 @@ Configurar el acceso a la base de datos en application.properties:
   spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
 
   ```
-IMPORTANTE: Asegurate de cambiar el puerto (3306) y puede variar por PC
+> .[!IMPORTANT]
+> Asegurate de cambiar el puerto (3306) y puede variar por PC
 
 ## Paso 3: Crear el Modelo, Repositorio, Servicio y Controlador
 
