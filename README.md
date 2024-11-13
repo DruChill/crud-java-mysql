@@ -54,7 +54,9 @@ Configurar el acceso a la base de datos en application.properties:
       private Long id;
       private String nombre;
       private String apellido;
-  
+
+      // Constructor vacío y con parámetros
+
       // Getters y Setters
   }
 
@@ -235,4 +237,5 @@ Configurar el acceso a la base de datos en application.properties:
   ```
 
 ### Paso 5: Ejecutar el Proyecto
-    
+> [!NOTE]
+> Si hay algo por mejorar en esta pequeña guía hazmelo saber.
